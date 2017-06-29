@@ -7,6 +7,7 @@
     "mobx-react-devtools": "^4.2.13"
   },
   "dependencies": {
+    "animate.css": "^3.5.2",
     "bootstrap": "^3.3.7",
     "custom-react-scripts": "0.0.23",
     "font-awesome": "^4.7.0",

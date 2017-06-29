@@ -1,4 +1,14 @@
-:global {
-    @import '~bootstrap/dist/css/bootstrap.css';
-    @import '~font-awesome/css/font-awesome.css';
+@import '~bootstrap/dist/css/bootstrap.css';
+@import '~font-awesome/css/font-awesome.css';
+@import '~animate.css/animate.css';
+
+@font-face {
+  font-family: "KenvectorFuture";
+  src: url('~app/fonts/kenvector_future.ttf');
+}
+
+@font-face {
+  font-family: "KenvectorFuture";
+  font-weight: 300;
+  src: url('~app/fonts/kenvector_future_thin.ttf');
 }
