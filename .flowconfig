@@ -5,3 +5,8 @@
 [libs]
 
 [options]
+esproposal.decorators=ignore
+unsafe.enable_getters_and_setters=true
+
+module.name_mapper.extension='scss' -> '<PROJECT_ROOT>/flow/empty.js.flow'
+module.name_mapper.extension='mp3' -> '<PROJECT_ROOT>/flow/string.js.flow'
